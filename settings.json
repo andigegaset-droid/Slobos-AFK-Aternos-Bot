@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Andimessi3D.aternos.me",
+    "ip": "Andimessi3D.aternos.me:18673",
     "port": 18673,
     "version": "",
     "try-creative": false
